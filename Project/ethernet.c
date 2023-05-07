@@ -1,5 +1,5 @@
-// Ethernet Example
-// Jason Losh
+// Antonio Buentelllo
+// 
 
 //-----------------------------------------------------------------------------
 // Hardware Target
