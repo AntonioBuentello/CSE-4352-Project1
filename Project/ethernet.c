@@ -1,5 +1,6 @@
 // Antonio Buentelllo
-// 
+// ethernet.c began as a template given by Professor Losh
+//
 
 //-----------------------------------------------------------------------------
 // Hardware Target
